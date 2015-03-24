@@ -127,6 +127,14 @@ code.snippet .comment { font-size: 0.8em; color: #777; }
     transition: 1s;
 }
 
+.step2 {
+    width: 600px;
+    padding: 20px;
+    border-radius: 20px;
+    
+    transition: 1s;
+}
+
 .step h2 {
     font-size: 3.5em;
     text-transform: lowercase;
