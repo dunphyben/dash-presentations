@@ -278,7 +278,16 @@ code.snippet .comment { font-size: 0.8em; color: #777; }
 
 
 
+/*
+ * FONTS
+ * =============================================================================
+ */
 
+
+.hexagon h1 {
+    font-size: 35px;
+    text-align: center;
+}
 
 
 
